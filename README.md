@@ -1,6 +1,12 @@
 python-yr
-=================
+=========
 Library for the norwegian wheather service yr.no in python.
+
+Note
+=====
+This fork is the working Python 2.7 compatible version of [python-yr project](https://github.com/wckd/python-yr) with latest changes.
+
+Original README follows.
 
 #### Usage
 ```python
