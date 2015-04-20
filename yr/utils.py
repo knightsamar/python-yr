@@ -10,6 +10,7 @@ import datetime # Cache
 import requests # Connect
 import urllib2, urllib, urlparse # Location
 from io import open
+import xmltodict
 
 class YrObject(object):
 
